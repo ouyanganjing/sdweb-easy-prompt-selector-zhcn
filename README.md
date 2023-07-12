@@ -6,4 +6,4 @@
 >
 > 
 
-https://ghproxy.com/https://github.com/fiua/sdweb-easy-prompt-selector-zhcn
+
